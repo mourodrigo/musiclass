@@ -12,6 +12,18 @@
 		58D7CEA71E86D4BD004915A9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 58D7CEA51E86D4BD004915A9 /* Main.storyboard */; };
 		58D7CEA91E86D4BD004915A9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 58D7CEA81E86D4BD004915A9 /* Assets.xcassets */; };
 		58D7CEAC1E86D4BD004915A9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 58D7CEAA1E86D4BD004915A9 /* LaunchScreen.storyboard */; };
+		58D7CEC11E86D8AB004915A9 /* piano-g.wav in Resources */ = {isa = PBXBuildFile; fileRef = 58D7CEB51E86D8AB004915A9 /* piano-g.wav */; };
+		58D7CEC21E86D8AB004915A9 /* piano-g1.wav in Resources */ = {isa = PBXBuildFile; fileRef = 58D7CEB61E86D8AB004915A9 /* piano-g1.wav */; };
+		58D7CEC31E86D8AB004915A9 /* piano-f.wav in Resources */ = {isa = PBXBuildFile; fileRef = 58D7CEB71E86D8AB004915A9 /* piano-f.wav */; };
+		58D7CEC41E86D8AB004915A9 /* piano-f1.wav in Resources */ = {isa = PBXBuildFile; fileRef = 58D7CEB81E86D8AB004915A9 /* piano-f1.wav */; };
+		58D7CEC51E86D8AB004915A9 /* piano-eb.wav in Resources */ = {isa = PBXBuildFile; fileRef = 58D7CEB91E86D8AB004915A9 /* piano-eb.wav */; };
+		58D7CEC61E86D8AB004915A9 /* piano-e.wav in Resources */ = {isa = PBXBuildFile; fileRef = 58D7CEBA1E86D8AB004915A9 /* piano-e.wav */; };
+		58D7CEC71E86D8AB004915A9 /* piano-d.wav in Resources */ = {isa = PBXBuildFile; fileRef = 58D7CEBB1E86D8AB004915A9 /* piano-d.wav */; };
+		58D7CEC81E86D8AB004915A9 /* piano-c.wav in Resources */ = {isa = PBXBuildFile; fileRef = 58D7CEBC1E86D8AB004915A9 /* piano-c.wav */; };
+		58D7CEC91E86D8AB004915A9 /* piano-c1.wav in Resources */ = {isa = PBXBuildFile; fileRef = 58D7CEBD1E86D8AB004915A9 /* piano-c1.wav */; };
+		58D7CECA1E86D8AB004915A9 /* piano-bb.wav in Resources */ = {isa = PBXBuildFile; fileRef = 58D7CEBE1E86D8AB004915A9 /* piano-bb.wav */; };
+		58D7CECB1E86D8AB004915A9 /* piano-b.wav in Resources */ = {isa = PBXBuildFile; fileRef = 58D7CEBF1E86D8AB004915A9 /* piano-b.wav */; };
+		58D7CECC1E86D8AB004915A9 /* piano-a.wav in Resources */ = {isa = PBXBuildFile; fileRef = 58D7CEC01E86D8AB004915A9 /* piano-a.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +34,18 @@
 		58D7CEA81E86D4BD004915A9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		58D7CEAB1E86D4BD004915A9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		58D7CEAD1E86D4BD004915A9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		58D7CEB51E86D8AB004915A9 /* piano-g.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "piano-g.wav"; sourceTree = "<group>"; };
+		58D7CEB61E86D8AB004915A9 /* piano-g1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "piano-g1.wav"; sourceTree = "<group>"; };
+		58D7CEB71E86D8AB004915A9 /* piano-f.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "piano-f.wav"; sourceTree = "<group>"; };
+		58D7CEB81E86D8AB004915A9 /* piano-f1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "piano-f1.wav"; sourceTree = "<group>"; };
+		58D7CEB91E86D8AB004915A9 /* piano-eb.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "piano-eb.wav"; sourceTree = "<group>"; };
+		58D7CEBA1E86D8AB004915A9 /* piano-e.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "piano-e.wav"; sourceTree = "<group>"; };
+		58D7CEBB1E86D8AB004915A9 /* piano-d.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "piano-d.wav"; sourceTree = "<group>"; };
+		58D7CEBC1E86D8AB004915A9 /* piano-c.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "piano-c.wav"; sourceTree = "<group>"; };
+		58D7CEBD1E86D8AB004915A9 /* piano-c1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "piano-c1.wav"; sourceTree = "<group>"; };
+		58D7CEBE1E86D8AB004915A9 /* piano-bb.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "piano-bb.wav"; sourceTree = "<group>"; };
+		58D7CEBF1E86D8AB004915A9 /* piano-b.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "piano-b.wav"; sourceTree = "<group>"; };
+		58D7CEC01E86D8AB004915A9 /* piano-a.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "piano-a.wav"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,11 +81,31 @@
 				58D7CEA11E86D4BD004915A9 /* AppDelegate.swift */,
 				58D7CEA31E86D4BD004915A9 /* ViewController.swift */,
 				58D7CEA51E86D4BD004915A9 /* Main.storyboard */,
+				58D7CEB41E86D8A4004915A9 /* Piano */,
 				58D7CEA81E86D4BD004915A9 /* Assets.xcassets */,
 				58D7CEAA1E86D4BD004915A9 /* LaunchScreen.storyboard */,
 				58D7CEAD1E86D4BD004915A9 /* Info.plist */,
 			);
 			path = MusiClass;
+			sourceTree = "<group>";
+		};
+		58D7CEB41E86D8A4004915A9 /* Piano */ = {
+			isa = PBXGroup;
+			children = (
+				58D7CEB51E86D8AB004915A9 /* piano-g.wav */,
+				58D7CEB61E86D8AB004915A9 /* piano-g1.wav */,
+				58D7CEB71E86D8AB004915A9 /* piano-f.wav */,
+				58D7CEB81E86D8AB004915A9 /* piano-f1.wav */,
+				58D7CEB91E86D8AB004915A9 /* piano-eb.wav */,
+				58D7CEBA1E86D8AB004915A9 /* piano-e.wav */,
+				58D7CEBB1E86D8AB004915A9 /* piano-d.wav */,
+				58D7CEBC1E86D8AB004915A9 /* piano-c.wav */,
+				58D7CEBD1E86D8AB004915A9 /* piano-c1.wav */,
+				58D7CEBE1E86D8AB004915A9 /* piano-bb.wav */,
+				58D7CEBF1E86D8AB004915A9 /* piano-b.wav */,
+				58D7CEC01E86D8AB004915A9 /* piano-a.wav */,
+			);
+			path = Piano;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -126,7 +170,19 @@
 			files = (
 				58D7CEAC1E86D4BD004915A9 /* LaunchScreen.storyboard in Resources */,
 				58D7CEA91E86D4BD004915A9 /* Assets.xcassets in Resources */,
+				58D7CEC41E86D8AB004915A9 /* piano-f1.wav in Resources */,
+				58D7CEC61E86D8AB004915A9 /* piano-e.wav in Resources */,
+				58D7CEC51E86D8AB004915A9 /* piano-eb.wav in Resources */,
+				58D7CEC11E86D8AB004915A9 /* piano-g.wav in Resources */,
+				58D7CEC31E86D8AB004915A9 /* piano-f.wav in Resources */,
+				58D7CECA1E86D8AB004915A9 /* piano-bb.wav in Resources */,
 				58D7CEA71E86D4BD004915A9 /* Main.storyboard in Resources */,
+				58D7CECB1E86D8AB004915A9 /* piano-b.wav in Resources */,
+				58D7CEC21E86D8AB004915A9 /* piano-g1.wav in Resources */,
+				58D7CEC91E86D8AB004915A9 /* piano-c1.wav in Resources */,
+				58D7CECC1E86D8AB004915A9 /* piano-a.wav in Resources */,
+				58D7CEC71E86D8AB004915A9 /* piano-d.wav in Resources */,
+				58D7CEC81E86D8AB004915A9 /* piano-c.wav in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -263,6 +319,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = WL7H3NV943;
 				INFOPLIST_FILE = MusiClass/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = mourodrigo.MusiClass;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -276,6 +333,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = WL7H3NV943;
 				INFOPLIST_FILE = MusiClass/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = mourodrigo.MusiClass;
 				PRODUCT_NAME = "$(TARGET_NAME)";
